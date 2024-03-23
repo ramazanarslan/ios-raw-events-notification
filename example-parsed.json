@@ -1,0 +1,45 @@
+{
+  "notificationType": "SUBSCRIBED",
+  "subtype": "RESUBSCRIBE",
+  "notificationUUID": "3bdbf731-974e-4304-a714-848213cf24",
+  "data": {
+    "appAppleId": 11111111,
+    "bundleId": "com.example",
+    "bundleVersion": "1",
+    "environment": "Sandbox",
+    "status": 1,
+    "transactionInfo": {
+      "transactionId": "2000000547498711",
+      "originalTransactionId": "1000000602336111",
+      "webOrderLineItemId": "2000000054564111",
+      "bundleId": "com.example",
+      "productId": "YearlyPremium03",
+      "subscriptionGroupIdentifier": "20565111",
+      "purchaseDate": 1710668786000,
+      "originalPurchaseDate": 1575835389000,
+      "expiresDate": 1710672386000,
+      "quantity": 1,
+      "type": "Auto-Renewable Subscription",
+      "inAppOwnershipType": "PURCHASED",
+      "signedDate": 1710668800934,
+      "environment": "Sandbox",
+      "transactionReason": "PURCHASE",
+      "storefront": "TUR",
+      "storefrontId": "111111",
+      "price": 199990,
+      "currency": "TRY"
+    },
+    "renewalInfo": {
+      "originalTransactionId": "1000000602111111",
+      "autoRenewProductId": "YearlyPremium03",
+      "productId": "YearlyPremium03",
+      "autoRenewStatus": 1,
+      "signedDate": 1710668800934,
+      "environment": "Sandbox",
+      "recentSubscriptionStartDate": 1710668786000,
+      "renewalDate": 1710672386000
+    }
+  },
+  "version": "2.0",
+  "signedDate": 1710668800976
+}

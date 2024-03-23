@@ -1,0 +1,45 @@
+{
+  "name": "ios-raw-events-notification",
+  "version": "1.1.1",
+  "description": "It listens to in-app purchases made via the App Store to the desired location via server to server (s2s) and sends them as notifications accordingly.",
+  "main": "index.js",
+  "dependencies": {
+    "@google-cloud/functions-framework": "^3.0.0",
+    "axios": "^0.27.2",
+    "base64url": "^3.0.1",
+    "country-iso-3-to-2": "^1.1.1",
+    "jsonwebtoken": "^8.5.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ramazanarslan/ios-raw-events-notification.git"
+  },
+  "keywords": [
+    "in-app",
+    "purchase",
+    "iap",
+    "app",
+    "store",
+    "server",
+    "to",
+    "server",
+    "s2s",
+    "raw",
+    "events",
+    "notification",
+    "adapty",
+    "revenucat",
+    "in",
+    "app",
+    "purchase"
+  ],
+  "author": "Ramazan Arslan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ramazanarslan/ios-raw-events-notification/issues"
+  },
+  "homepage": "https://github.com/ramazanarslan/ios-raw-events-notification#readme"
+}
