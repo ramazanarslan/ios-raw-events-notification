@@ -1,7 +1,7 @@
 ## App Store In-App Purchase Event Notification Sender 🔔
 This repo monitors [**App Store Server to Server Version 2**](https://developer.apple.com/documentation/appstoreservernotifications) events for **in-app purchases** and notifies you on **Slack or Discord** in a convenient format. Ideal for individual developers with low purchase requests.
 
-
+If you liked it, don't forget to star it. ⭐️
 
 <img src="https://github.com/ramazanarslan/ios-raw-events-notification/assets/31334024/2a4d325a-9211-4bbf-acfd-6fb664bc4cd3" width="800">
 
